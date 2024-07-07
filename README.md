@@ -35,4 +35,4 @@ The simulation enhanced my ability to translate complex data into actionable ins
 Participating in the PwC Switzerland Power BI Job Simulation on Forage has significantly strengthened my data visualization and analytical skills. It underscored the importance of understanding client needs and delivering tailored solutions that drive business success. The experience has prepared me to tackle real-world challenges with confidence and creativity, ensuring I can contribute effectively to any data-driven project.
 
 ## Certificates
-![Certificate of Completion]([path_to_certificate_image](https://github.com/binoy-patra/PWC-Power-BI-Job-Simulation-Program/blob/main/images/certificate.png))
+![Certificate of Completion](images/certificate.png)
