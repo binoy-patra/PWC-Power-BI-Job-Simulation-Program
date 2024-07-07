@@ -9,6 +9,8 @@ I recently completed the PwC Switzerland Power BI Job Simulation on Forage in Ju
 **Problem:** The telecom retention department faced challenges in identifying customers at risk of terminating their contracts proactively. Historical analysis in Excel often ended in dead-ends, necessitating a clear and self-explanatory visualization for management.  
 **Solution:** Created a Power BI dashboard to highlight customers at risk of churn, enabling proactive retention efforts through clear visual indicators and predictive metrics.
 
+![Customer Retention Dashboard](images/customer_retention_dashboard_01.png)
+![Customer Retention Dashboard](images/customer_retention_dashboard_02.png)
 
 ### 2. Call Centre Dashboard
 **Problem:** The client needed a comprehensive view of call center performance, including overall customer satisfaction, call handling metrics, and agent performance, to improve service quality and operational efficiency.  
