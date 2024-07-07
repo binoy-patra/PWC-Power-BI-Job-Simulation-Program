@@ -22,7 +22,8 @@ I recently completed the PwC Switzerland Power BI Job Simulation on Forage in Ju
 **Problem:** The telecom client's HR department struggled to improve gender balance at the executive management level and needed insights into hiring, promotion, performance, and turnover metrics to drive strategic initiatives.  
 **Solution:** Designed a Power BI dashboard to track diversity-related KPIs, providing a detailed analysis of gender balance, promotion rates, hiring trends, and performance ratings, along with root cause analysis for slow progress in gender balance.
 
-![Diversity and Inclusion Dashboard](path_to_image3)
+![Diversity and Inclusion Dashboard](images/diversity_inclusion_dashboard_01.png)
+![Diversity and Inclusion Dashboard](images/diversity_inclusion_dashboard_02.png)
 
 ## Tools Used
 - **Power BI:** For data visualization and dashboard creation.
@@ -37,3 +38,9 @@ Participating in the PwC Switzerland Power BI Job Simulation on Forage has signi
 
 ## Certificates
 ![Certificate of Completion](images/certificate.png)
+
+## Contact Information
+Feel free to contact me for expert insights and innovative solutions in data analytics and interactive dashboard creation.
+- **LinkedIn**: [Binoy Patra](https://www.linkedin.com/in/binoy-patra-b9277b1b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **GitHub**: [binoy-patra](https://github.com/binoy-patra)
+- **Email**: binoypatra20@gmail.com
